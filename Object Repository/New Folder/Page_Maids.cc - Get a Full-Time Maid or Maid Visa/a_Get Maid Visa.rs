@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Get Maid Visa</name>
+   <tag></tag>
+   <elementGuidId>a43edd72-faa9-4a16-be05-c8899241f636</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-header']/nav/div[3]/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.airbnb-medium.nav-link.text-nowrap.gtm-header-maid-visa</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>67d8cc97-3daa-4ab3-934a-2e14ebf94656</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>airbnb-medium nav-link text-nowrap gtm-header-maid-visa</value>
+      <webElementGuid>14d0f4bd-230c-43f5-9f8b-77ddb875288a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.maids.cc/visaservices?mpanel=186cb8bc63a37a-0c9c53a560a866-26031851-144000-186cb8bc63baa0&amp;utm_source=maidscc</value>
+      <webElementGuid>98c93f60-46e0-431c-aa8c-851e01b5fbe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get Maid Visa</value>
+      <webElementGuid>a480f7df-5422-4487-8a8a-b8db2cd8cd10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-header&quot;)/nav[@class=&quot;navbar navbar-expand-sm align-items-center py-2 px-3 p-sm-0 navbar-light bg-primary container&quot;]/div[@class=&quot;navbarNavDropdown&quot;]/ul[@class=&quot;navbar-nav width_100 flex-row align-items-center&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;airbnb-medium nav-link text-nowrap gtm-header-maid-visa&quot;]</value>
+      <webElementGuid>9617ed09-fbad-475f-b663-4e15d511cc31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-header']/nav/div[3]/ul/li[3]/a</value>
+      <webElementGuid>a4b57e19-1f7e-4b0e-a797-c250602fb747</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Get Maid Visa')]</value>
+      <webElementGuid>31189e6b-1692-49b0-b8c6-32e478f9ec16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQs'])[1]/following::a[1]</value>
+      <webElementGuid>b7a21542-c254-407a-bae7-cb5887a98eb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/following::a[2]</value>
+      <webElementGuid>587c1bcb-687b-486e-822a-a3bbf26996ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WhatsApp'])[1]/preceding::a[1]</value>
+      <webElementGuid>66e3cfdf-271e-4b2d-9575-774dbc9f785e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Get Maid Visa']/parent::*</value>
+      <webElementGuid>68c0ed0b-fb66-471a-8039-6523cd6f6e43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.maids.cc/visaservices?mpanel=186cb8bc63a37a-0c9c53a560a866-26031851-144000-186cb8bc63baa0&amp;utm_source=maidscc')]</value>
+      <webElementGuid>294e6b5e-3c78-4939-9895-786b9348af6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>178eaeb0-2b92-4451-86f8-99e0c3be2169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.maids.cc/visaservices?mpanel=186cb8bc63a37a-0c9c53a560a866-26031851-144000-186cb8bc63baa0&amp;utm_source=maidscc' and (text() = 'Get Maid Visa' or . = 'Get Maid Visa')]</value>
+      <webElementGuid>807c30e1-4d30-438b-b2a4-20fdc1ec6585</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
